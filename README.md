@@ -83,7 +83,7 @@ A infraestrutura foi dividida entre uma **rede interna empresarial** e uma **red
 Os computadores da rede interna utilizam endereços IPv4 privados e comunicam através de um router responsável por encaminhar o tráfego para a rede externa.
 
 <p align="center">
-  <img src="imagens/topologia.png" alt="Topologia da rede com acesso à Internet" width="1000">
+  <img src="labs/pro6.png" alt="Topologia da rede com acesso à Internet" width="1000">
 </p>
 
 Esta estrutura permitiu compreender o papel do router de fronteira como ponto de ligação entre a rede privada e a rede externa.
